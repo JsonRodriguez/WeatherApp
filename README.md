@@ -11,6 +11,7 @@ WeatherApp is an application to know the state of the weather 🌞, humidity �
 Download the repository and install Axios with 
 ```bash
 yarn add axios.
+```
 
 ## Contributions and Problem Report 🤝
 
