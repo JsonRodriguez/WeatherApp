@@ -1,8 +1,17 @@
-# React + Vite
+# Weather App ⛅🌧
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+WeatherApp is an application to know the state of the weather 🌞, humidity 💧 and wind speed 🌫, of the city you want to search for.
 
-Currently, two official plugins are available:
+## Screenshots 📷
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![WeatherAppBanner](https://github.com/JsonRodriguez/WeatherApp/assets/105531721/0965f558-0f83-4fd3-a515-87f543fd2855)
+
+## Installation and Use 📦
+
+Download the repository and install Axios with 
+```bash
+yarn add axios.
+
+## Contributions and Problem Report 🤝
+
+Contributions ✔, corrections or advice are always accepted for my growth as a front-end developer or my app. 💪
