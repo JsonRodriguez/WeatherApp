@@ -10,9 +10,14 @@ WeatherApp is an application to know the state of the weather 🌞, humidity �
 
 Download the repository and install Axios with 
 ```bash
-yarn add axios.
+yarn add axios
+```
+```bash
+npm install axios
 ```
 
 ## Contributions and Problem Report 🤝
 
 Contributions ✔, corrections or advice are always accepted for my growth as a front-end developer or my app. 💪
+
+Thanks to OpenWeather for the API! ✨
