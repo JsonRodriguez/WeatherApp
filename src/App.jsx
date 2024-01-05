@@ -28,7 +28,7 @@ function App() {
       setError(false)
       setheightContainer('605px');
     })
-    .catch(function (error){
+    .catch(function (){
       setError(true)
       setheightContainer('505px');
     })
